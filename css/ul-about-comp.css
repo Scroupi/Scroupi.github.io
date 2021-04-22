@@ -43,3 +43,7 @@ ul.timeline:after
   top: -1em;
   color: #aaa;
 }
+
+.timeline {
+  padding: 0;
+}
